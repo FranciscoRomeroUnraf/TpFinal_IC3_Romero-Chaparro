@@ -1,6 +1,6 @@
 Este modo levanta el Broker MQTT, un Simulador de ESP32 y el Panel de Control en contenedores aislados. No requiere instalar Python ni Arduino IDE en la máquina anfitriona.
 
-Requisitos: Tener instalado Docker Desktop.
+Requisitos: Tener instalado Docker Desktop y abierto en tu PC.
 
 Ejecución: Abra una terminal en la carpeta principal del proyecto y ejecute:
 
